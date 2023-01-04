@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Module for N Queens problem.'''
+#Module for N Queens problem.
 
 
 def isSafe(board, row, col):
